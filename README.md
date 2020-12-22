@@ -3,7 +3,7 @@
 
 insert image
 
-![unnamed](unamed.jpg)
+![C](C.jpg)
 
 # ขั้นตอนการ Save file จาก Colab ไปยัง Github
 
