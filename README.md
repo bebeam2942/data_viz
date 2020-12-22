@@ -3,7 +3,9 @@
 
 insert image
 
-![C](C.jpg)
+![STATLOGO](STATLOGO.png)
+
+
 
 # ขั้นตอนการ Save file จาก Colab ไปยัง Github
 
